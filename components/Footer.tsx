@@ -52,35 +52,35 @@ const Footer = () => {
           </a>
           <div className="flex flex-wrap items-center justify-center gap-4 mt-6 lg:gap-6 lg:mt-0">
             <a
-              href="https://www.instagram.com/aryaninguz.tsx/"
+              href="https://www.instagram.com/mehak_kanyal16/"
               target="_blank"
               className="text-xl text-gray-600 transition-colors duration-300 dark:text-gray-200 hover:text-blue-500 dark:hover:text-blue-400"
             >
               <AiFillInstagram />
             </a>
             <a
-              href="https://www.linkedin.com/in/aryan-inguz-b73150254/"
+              href="https://www.linkedin.com/in/mehak-kanyal-9b32ba261/"
               target="_blank"
               className="text-xl text-gray-600 transition-colors duration-300 dark:text-gray-200 hover:text-blue-500 dark:hover:text-blue-400"
             >
               <AiFillLinkedin />
             </a>
             <a
-              href="https://twitter.com/aryaninguz369"
+              href="https://x.com/mehakkanyal16"
               target="_blank"
               className="text-xl text-gray-600 transition-colors duration-300 dark:text-gray-200 hover:text-blue-500 dark:hover:text-blue-400"
             >
               <FaXTwitter />
             </a>
             <a
-              href="https://github.com/Aryainguz"
+              href="https://github.com/mehakkanyal16"
               target="_blank"
               className="text-xl text-gray-600 transition-colors duration-300 dark:text-gray-200 hover:text-blue-500 dark:hover:text-blue-400"
             >
               <FaGithub />
             </a>
             <a
-              href="https://www.youtube.com/@AryanInguz"
+              href="https://www.youtube.com/@mehakkanyal8440"
               target="_blank"
               className="text-xl text-gray-600 transition-colors duration-300 dark:text-gray-200 hover:text-blue-500 dark:hover:text-blue-400"
             >
@@ -89,7 +89,7 @@ const Footer = () => {
           </div>
 
           <p className="mt-6 text-sm text-gray-500 lg:mt-0 dark:text-gray-400">
-            <a
+            {/* <a
               href="https://www.producthunt.com/posts/picwise?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-picwise"
               target="_blank"
             >
@@ -101,14 +101,14 @@ const Footer = () => {
                 width={250}
                 height={54}
               />
-            </a>
+            </a> */}
             Made with ❤️ by{" "}
             <a
-              href="https://www.aryaninguz.tech"
+              href="https://mehak-kanyal.vercel.app/"
               target="_blank"
               className="text-xl text-gray-600 transition-colors duration-300 dark:text-gray-200 hover:text-blue-500 dark:hover:text-blue-400"
             >
-              Aryainguz
+              Mehak Kanyal
             </a>
             .
           </p>
